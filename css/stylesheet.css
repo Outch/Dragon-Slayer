@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+	outline: none;
+}
+
+body {
+	width: 80%;
+	margin: auto;
+	text-align: center;
+}
+
+button {
+	margin: 15px;
+	padding: 10px 20px;
+	border: none;
+	background-color: green;
+	color: white;
+}
+
+#combat button {
+	background-color: red;
+}
